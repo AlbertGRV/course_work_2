@@ -1,0 +1,14 @@
+C:\КУРСАЧ ПО ПЛЮСАМ\Project4\x64\Debug\Project4.exe.config
+C:\КУРСАЧ ПО ПЛЮСАМ\Project4\Project4\x64\Debug\Project4.vcxproj.AssemblyReference.cache
+C:\КУРСАЧ ПО ПЛЮСАМ\Project4\Project4\x64\Debug\Project4.vcxproj.SuggestedBindingRedirects.cache
+C:\КУРСАЧ ПО ПЛЮСАМ\Project4\Project4\x64\Debug\Project4.exe.config
+C:\КУРСАЧ ПО ПЛЮСАМ\Project4\Project4\x64\Debug\Project4.GRIP.resources
+C:\КУРСАЧ ПО ПЛЮСАМ\Project4\Project4\x64\Debug\Project4.vcxproj.GenerateResource.cache
+C:\КУРСАЧ ПО ПЛЮСАМ\Project4\Project4\x64\Debug\Project4.vcxproj.Up2Date
+C:\Kursach\Project4\x64\Debug\Project4.exe.config
+C:\Kursach\Project4\Project4\x64\Debug\Project4.vcxproj.AssemblyReference.cache
+C:\Kursach\Project4\Project4\x64\Debug\Project4.vcxproj.SuggestedBindingRedirects.cache
+C:\Kursach\Project4\Project4\x64\Debug\Project4.exe.config
+C:\Kursach\Project4\Project4\x64\Debug\Project4.GRIP.resources
+C:\Kursach\Project4\Project4\x64\Debug\Project4.vcxproj.GenerateResource.cache
+C:\Kursach\Project4\Project4\x64\Debug\Project4.vcxproj.Up2Date

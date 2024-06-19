@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Kursach\\Project4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94F6032A-0A72-4B75-ACEF-A16F5A939EDA}|Project4\\Project4.vcxproj|C:\\Kursach\\Project4\\Project4\\GRIP.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{94F6032A-0A72-4B75-ACEF-A16F5A939EDA}|Project4\\Project4.vcxproj|solutionrelative:Project4\\GRIP.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F6032A-0A72-4B75-ACEF-A16F5A939EDA}|Project4\\Project4.vcxproj|C:\\Kursach\\Project4\\Project4\\GRIP.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{94F6032A-0A72-4B75-ACEF-A16F5A939EDA}|Project4\\Project4.vcxproj|solutionrelative:Project4\\GRIP.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F6032A-0A72-4B75-ACEF-A16F5A939EDA}|Project4\\Project4.vcxproj|C:\\Kursach\\Project4\\Project4\\GRIP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{94F6032A-0A72-4B75-ACEF-A16F5A939EDA}|Project4\\Project4.vcxproj|solutionrelative:Project4\\GRIP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GRIP.h [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Kursach\\Project4\\Project4\\GRIP.h",
+              "RelativeDocumentMoniker": "Project4\\GRIP.h",
+              "ToolTip": "C:\\Kursach\\Project4\\Project4\\GRIP.h [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Project4\\GRIP.h [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-05T11:18:52.397Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GRIP.h",
+              "DocumentMoniker": "C:\\Kursach\\Project4\\Project4\\GRIP.h",
+              "RelativeDocumentMoniker": "Project4\\GRIP.h",
+              "ToolTip": "C:\\Kursach\\Project4\\Project4\\GRIP.h",
+              "RelativeToolTip": "Project4\\GRIP.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGICAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-28T13:04:59.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GRIP.cpp",
+              "DocumentMoniker": "C:\\Kursach\\Project4\\Project4\\GRIP.cpp",
+              "RelativeDocumentMoniker": "Project4\\GRIP.cpp",
+              "ToolTip": "C:\\Kursach\\Project4\\Project4\\GRIP.cpp",
+              "RelativeToolTip": "Project4\\GRIP.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-23T16:26:32.026Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

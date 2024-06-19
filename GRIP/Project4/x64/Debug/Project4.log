@@ -1,0 +1,6 @@
+﻿  GRIP.cpp
+C:\Kursach\Project4\Project4\GRIP.h(395,1): warning C4642: "OpenCvSharp::Mat": не удалось импортировать ограничения для универсального параметра "TElem"
+C:\Kursach\Project4\Project4\GRIP.h(415,1): warning C4642: "OpenCvSharp::Mat::UnsafeIndexer": не удалось импортировать ограничения для универсального параметра "T"
+C:\Kursach\Project4\Project4\GRIP.h(427,1): warning C4642: "OpenCvSharp::OutputArrayOfStructList": не удалось импортировать ограничения для универсального параметра "T"
+  GRIP.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project4.vcxproj -> C:\Kursach\Project4\x64\Debug\Project4.exe

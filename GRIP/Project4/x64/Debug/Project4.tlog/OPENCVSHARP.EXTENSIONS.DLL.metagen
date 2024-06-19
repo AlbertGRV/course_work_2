@@ -1,0 +1,27 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly OpenCvSharp.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=6adad1e807fea099: 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly OpenCvSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=6adad1e807fea099: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class OpenCvSharp.Extensions.Binarizer: AutoLayout, AnsiClass, Class, Public, Abstract, Sealed, BeforeFieldInit (Obsolete)
+  Methods:
+    Niblack(Mat, Mat, Int32, Double): PrivateScope, Public, Static, HideBySig
+    Sauvola(Mat, Mat, Int32, Double, Double): PrivateScope, Public, Static, HideBySig
+    Bernsen(Mat, Mat, Int32, Byte, Byte): PrivateScope, Public, Static, HideBySig
+    Nick(Mat, Mat, Int32, Double): PrivateScope, Public, Static, HideBySig
+Class OpenCvSharp.Extensions.BitmapConverter: AutoLayout, AnsiClass, Class, Public, Abstract, Sealed, BeforeFieldInit
+  Methods:
+    ToMat(Bitmap): PrivateScope, Public, Static, HideBySig
+    ToMat(Bitmap, Mat): PrivateScope, Public, Static, HideBySig
+    ToBitmap(Mat): PrivateScope, Public, Static, HideBySig
+    ToBitmap(Mat, PixelFormat): PrivateScope, Public, Static, HideBySig
+    ToBitmap(Mat, Bitmap): PrivateScope, Public, Static, HideBySig
+Class OpenCvSharp.Extensions.CvExtensions: AutoLayout, AnsiClass, Class, Public, Abstract, Sealed, BeforeFieldInit
+  Methods:
+    HoughLinesProbabilisticEx(Mat, Double, Double, Int32, Double, Double, Double(Optional, HasDefault), Double(Optional, HasDefault)): PrivateScope, Public, Static, HideBySig
